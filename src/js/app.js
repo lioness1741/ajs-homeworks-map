@@ -12,4 +12,3 @@ export default class ErrorRepository {
     return 'Unknown error';
   }
 }
-
